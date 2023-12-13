@@ -1,0 +1,352 @@
+<div class="div">
+  <div class="div-2">
+    <div class="div-3">ADDICTO</div>
+    <div class="div-4">
+      <div class="div-5">Home</div>
+      <div class="div-6">About us</div>
+      <div class="div-7">Contact us</div>
+      <div class="div-8">Change Account</div>
+    </div>
+    <img
+      loading="lazy"
+      src="https://cdn.builder.io/api/v1/image/assets/TEMP/82d074cd8adc25082a648e3ab923a64328c37d4b867c8645f366b12791438a0e?apiKey=c910592a829a40f4b6c7bf35c92893b4&"
+      class="img"
+    />
+  </div>
+  <img
+    loading="lazy"
+    srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/7ac6fc5221971a028d273cca55302f0e2aa7f3d751dcbb33c6f86247e971e8ad?apiKey=c910592a829a40f4b6c7bf35c92893b4&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/7ac6fc5221971a028d273cca55302f0e2aa7f3d751dcbb33c6f86247e971e8ad?apiKey=c910592a829a40f4b6c7bf35c92893b4&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/7ac6fc5221971a028d273cca55302f0e2aa7f3d751dcbb33c6f86247e971e8ad?apiKey=c910592a829a40f4b6c7bf35c92893b4&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/7ac6fc5221971a028d273cca55302f0e2aa7f3d751dcbb33c6f86247e971e8ad?apiKey=c910592a829a40f4b6c7bf35c92893b4&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/7ac6fc5221971a028d273cca55302f0e2aa7f3d751dcbb33c6f86247e971e8ad?apiKey=c910592a829a40f4b6c7bf35c92893b4&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/7ac6fc5221971a028d273cca55302f0e2aa7f3d751dcbb33c6f86247e971e8ad?apiKey=c910592a829a40f4b6c7bf35c92893b4&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/7ac6fc5221971a028d273cca55302f0e2aa7f3d751dcbb33c6f86247e971e8ad?apiKey=c910592a829a40f4b6c7bf35c92893b4&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/7ac6fc5221971a028d273cca55302f0e2aa7f3d751dcbb33c6f86247e971e8ad?apiKey=c910592a829a40f4b6c7bf35c92893b4&"
+    class="img-2"
+  />
+  <div class="div-9">
+    Welcome
+    <br />
+    Salar!
+  </div>
+  <div class="div-10">
+    TOO ADDICTED TO THE INTERNET?
+    <br />
+    TRY US NOW
+  </div>
+  <div class="div-11">Start Assessing</div>
+  <div class="div-12">
+    <div class="div-13">
+      <img
+        loading="lazy"
+        src="https://cdn.builder.io/api/v1/image/assets/TEMP/930b21c524de901708f79c4b55be12376185449c5e700d5b4d0cee4075738a61?apiKey=c910592a829a40f4b6c7bf35c92893b4&"
+        class="img-3"
+      />
+      <img
+        loading="lazy"
+        src="https://cdn.builder.io/api/v1/image/assets/TEMP/029a09dcc91e1cb2c7867d1d34b2a972149cba3cea8351ad3833c49a21569591?apiKey=c910592a829a40f4b6c7bf35c92893b4&"
+        class="img-4"
+      />
+      <img
+        loading="lazy"
+        src="https://cdn.builder.io/api/v1/image/assets/TEMP/5a2dfdc985691ba6fcf03fc08d0ae4f24228f03d8a2604c378ffd384333009c2?apiKey=c910592a829a40f4b6c7bf35c92893b4&"
+        class="img-5"
+      />
+      <img
+        loading="lazy"
+        src="https://cdn.builder.io/api/v1/image/assets/TEMP/3776dbbcf7173c390ff87f60908f182b607d5b6d49afa8127654c96f4b10939c?apiKey=c910592a829a40f4b6c7bf35c92893b4&"
+        class="img-6"
+      />
+      <img
+        loading="lazy"
+        src="https://cdn.builder.io/api/v1/image/assets/TEMP/73487f598f9c29f00901f8a6fd106c011dfc983eb2db2d42beb87f55a3e87773?apiKey=c910592a829a40f4b6c7bf35c92893b4&"
+        class="img-7"
+      />
+      <img
+        loading="lazy"
+        src="https://cdn.builder.io/api/v1/image/assets/TEMP/7a46022d63d20d57116727a2643004b00292282eae5de7e1826a6b6de4d05604?apiKey=c910592a829a40f4b6c7bf35c92893b4&"
+        class="img-8"
+      />
+    </div>
+    <div class="div-14">
+      <div class="div-15">Terms of Use</div>
+      <div class="div-16">Privacy Policy</div>
+    </div>
+  </div>
+</div>
+<style>
+  .div {
+    background-color: #232121;
+    display: flex;
+    flex-direction: column;
+  }
+  .div-2 {
+    background-color: #939393;
+    align-self: stretch;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 22px 33px 0 0;
+  }
+  @media (max-width: 991px) {
+    .div-2 {
+      max-width: 100%;
+      flex-wrap: wrap;
+      justify-content: center;
+      padding-right: 20px;
+    }
+  }
+  .div-3 {
+    color: #fcfcfc;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25),
+      0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25),
+      0px 4px 4px rgba(0, 0, 0, 0.25);
+    flex-grow: 1;
+    flex-basis: auto;
+    font: 400 48px Manjari, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-3 {
+      font-size: 40px;
+    }
+  }
+  .div-4 {
+    align-self: end;
+    display: flex;
+    margin-top: 22px;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  @media (max-width: 991px) {
+    .div-4 {
+      max-width: 100%;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  }
+  .div-5 {
+    color: #fff;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25),
+      0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25),
+      0px 4px 4px rgba(0, 0, 0, 0.25);
+    white-space: nowrap;
+    font: 400 24px Manjari, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-5 {
+      white-space: initial;
+    }
+  }
+  .div-6 {
+    color: #fff;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25),
+      0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25),
+      0px 4px 4px rgba(0, 0, 0, 0.25);
+    font: 400 24px Manjari, sans-serif;
+  }
+  .div-7 {
+    color: #fff;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25),
+      0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25),
+      0px 4px 4px rgba(0, 0, 0, 0.25);
+    font: 400 24px Manjari, sans-serif;
+  }
+  .div-8 {
+    color: #fff;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25),
+      0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25),
+      0px 4px 4px rgba(0, 0, 0, 0.25);
+    flex-grow: 1;
+    white-space: nowrap;
+    font: 400 24px Manjari, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-8 {
+      white-space: initial;
+    }
+  }
+  .img {
+    aspect-ratio: 1.15;
+    object-fit: contain;
+    object-position: center;
+    width: 30px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25))
+      drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25))
+      drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25))
+      drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    overflow: hidden;
+    align-self: center;
+    max-width: 100%;
+    margin: auto 0;
+  }
+  .img-2 {
+    aspect-ratio: 0.98;
+    object-fit: contain;
+    object-position: center;
+    width: 118px;
+    overflow: hidden;
+    align-self: center;
+    margin-top: 114px;
+    max-width: 100%;
+  }
+  @media (max-width: 991px) {
+    .img-2 {
+      margin-top: 40px;
+    }
+  }
+  .div-9 {
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+    align-self: center;
+    margin-top: 45px;
+    max-width: 614px;
+    font: 400 150px Manjari, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-9 {
+      max-width: 100%;
+      font-size: 40px;
+      margin-top: 40px;
+    }
+  }
+  .div-10 {
+    color: #fff;
+    text-align: center;
+    max-width: 387px;
+    align-self: center;
+    margin-top: 164px;
+    font: 400 24px Manjari, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-10 {
+      margin-top: 40px;
+    }
+  }
+  .div-11 {
+    color: #fcfcfc;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25),
+      0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25),
+      0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    border: 1px solid #0a0a0a;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    background-color: #939393;
+    align-self: center;
+    margin-top: 47px;
+    width: 400px;
+    max-width: 100%;
+    padding: 19px 36px 7px;
+    font: 500 24px jsMath-cmti10, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-11 {
+      margin-top: 40px;
+      padding: 0 20px;
+    }
+  }
+  .div-12 {
+    align-self: center;
+    display: flex;
+    margin-top: 39px;
+    width: 100%;
+    max-width: 1375px;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  @media (max-width: 991px) {
+    .div-12 {
+      max-width: 100%;
+      flex-wrap: wrap;
+    }
+  }
+  .div-13 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  @media (max-width: 991px) {
+    .div-13 {
+      justify-content: center;
+    }
+  }
+  .img-3 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 30px;
+    overflow: hidden;
+    align-self: start;
+    margin-top: 5px;
+    max-width: 100%;
+  }
+  .img-4 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 30px;
+    overflow: hidden;
+    align-self: start;
+    margin-top: 5px;
+    max-width: 100%;
+  }
+  .img-5 {
+    aspect-ratio: 1.25;
+    object-fit: contain;
+    object-position: center;
+    width: 30px;
+    overflow: hidden;
+    align-self: start;
+    margin-top: 8px;
+    max-width: 100%;
+  }
+  .img-6 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 30px;
+    overflow: hidden;
+    align-self: start;
+    margin-top: 5px;
+    max-width: 100%;
+  }
+  .img-7 {
+    aspect-ratio: 1.43;
+    object-fit: contain;
+    object-position: center;
+    width: 30px;
+    overflow: hidden;
+    align-self: start;
+    margin-top: 10px;
+    max-width: 100%;
+  }
+  .img-8 {
+    aspect-ratio: 0.86;
+    object-fit: contain;
+    object-position: center;
+    width: 30px;
+    overflow: hidden;
+    align-self: stretch;
+    max-width: 100%;
+  }
+  .div-14 {
+    align-self: start;
+    display: flex;
+    margin-top: 13px;
+    align-items: start;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  .div-15 {
+    color: #939393;
+    text-align: center;
+    font: 400 24px Manjari, sans-serif;
+  }
+  .div-16 {
+    color: #939393;
+    text-align: center;
+    font: 400 24px Manjari, sans-serif;
+  }
+</style>

@@ -1,0 +1,609 @@
+<div class="div">
+  <div class="div-2">
+    <div class="div-3">ADDICTO</div>
+    <div class="div-4">
+      <div class="div-5">Home</div>
+      <div class="div-6">About us</div>
+      <div class="div-7">Contact us</div>
+      <div class="div-8">Change Account</div>
+    </div>
+    <img
+      loading="lazy"
+      src="https://cdn.builder.io/api/v1/image/assets/TEMP/79f8ae33207eb0959921065fec626d3fb7c762851e913fd0cdcdc56180f7c398?apiKey=c910592a829a40f4b6c7bf35c92893b4&"
+      class="img"
+    />
+  </div>
+  <div class="div-9">
+    <div class="div-10">
+      <img
+        loading="lazy"
+        src="https://cdn.builder.io/api/v1/image/assets/TEMP/723c542a66f2e8127f605d3c81de68f77121032faceb1be86587f9750f21574a?apiKey=c910592a829a40f4b6c7bf35c92893b4&"
+        class="img-2"
+      />
+      <div class="div-11">Addiction Assessment</div>
+    </div>
+    <div class="div-12">Facial Patterns</div>
+    <div class="div-13">
+      The facial scans shows average use of internet and no signs of too much
+      addiction.
+    </div>
+    <div class="div-14">Media Usage Pattern</div>
+    <div class="div-15">
+      <img
+        loading="lazy"
+        src="https://cdn.builder.io/api/v1/image/assets/TEMP/0911db57e2bd9a4305d7d0f11dfa51aa6a5317d558c1afe7a973251754454c40?apiKey=c910592a829a40f4b6c7bf35c92893b4&"
+        class="img-3"
+      />
+      <div class="div-16">
+        <div class="div-17">
+          <div class="div-18"></div>
+          <div class="div-19">Instagram Web</div>
+        </div>
+        <div class="div-20">
+          <div class="div-21">
+            <div class="div-22"></div>
+            <div class="div-23"></div>
+          </div>
+          <div class="div-24">
+            <div class="div-25">Whatsapp Web</div>
+            <div class="div-26">YouTube</div>
+          </div>
+        </div>
+        <div class="div-27">
+          <div class="div-28"></div>
+          <div class="div-29">Chrome</div>
+        </div>
+        <div class="div-30">
+          <div class="div-31"></div>
+          <div class="div-32">Netflix</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="div-33">
+    <div class="div-34">
+      The media usage above shows average use of other applications
+      <br />
+      but too much use of Instagram which can lead to addiction of it.
+    </div>
+    <div class="div-35">Go to Suggester</div>
+  </div>
+  <div class="div-36">
+    <div class="div-37">
+      <img
+        loading="lazy"
+        src="https://cdn.builder.io/api/v1/image/assets/TEMP/930b21c524de901708f79c4b55be12376185449c5e700d5b4d0cee4075738a61?apiKey=c910592a829a40f4b6c7bf35c92893b4&"
+        class="img-4"
+      />
+      <img
+        loading="lazy"
+        src="https://cdn.builder.io/api/v1/image/assets/TEMP/029a09dcc91e1cb2c7867d1d34b2a972149cba3cea8351ad3833c49a21569591?apiKey=c910592a829a40f4b6c7bf35c92893b4&"
+        class="img-5"
+      />
+      <img
+        loading="lazy"
+        src="https://cdn.builder.io/api/v1/image/assets/TEMP/5a2dfdc985691ba6fcf03fc08d0ae4f24228f03d8a2604c378ffd384333009c2?apiKey=c910592a829a40f4b6c7bf35c92893b4&"
+        class="img-6"
+      />
+      <img
+        loading="lazy"
+        src="https://cdn.builder.io/api/v1/image/assets/TEMP/3776dbbcf7173c390ff87f60908f182b607d5b6d49afa8127654c96f4b10939c?apiKey=c910592a829a40f4b6c7bf35c92893b4&"
+        class="img-7"
+      />
+      <img
+        loading="lazy"
+        src="https://cdn.builder.io/api/v1/image/assets/TEMP/73487f598f9c29f00901f8a6fd106c011dfc983eb2db2d42beb87f55a3e87773?apiKey=c910592a829a40f4b6c7bf35c92893b4&"
+        class="img-8"
+      />
+      <img
+        loading="lazy"
+        src="https://cdn.builder.io/api/v1/image/assets/TEMP/7a46022d63d20d57116727a2643004b00292282eae5de7e1826a6b6de4d05604?apiKey=c910592a829a40f4b6c7bf35c92893b4&"
+        class="img-9"
+      />
+    </div>
+    <div class="div-38">
+      <div class="div-39">Terms of Use</div>
+      <div class="div-40">Privacy Policy</div>
+    </div>
+  </div>
+</div>
+<style>
+  .div {
+    background-color: #232121;
+    display: flex;
+    flex-direction: column;
+  }
+  .div-2 {
+    background-color: #939393;
+    align-self: stretch;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 22px 33px 0 0;
+  }
+  @media (max-width: 991px) {
+    .div-2 {
+      max-width: 100%;
+      flex-wrap: wrap;
+      justify-content: center;
+      padding-right: 20px;
+    }
+  }
+  .div-3 {
+    color: #fcfcfc;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25),
+      0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25),
+      0px 4px 4px rgba(0, 0, 0, 0.25);
+    flex-grow: 1;
+    flex-basis: auto;
+    font: 400 48px Manjari, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-3 {
+      font-size: 40px;
+    }
+  }
+  .div-4 {
+    align-self: end;
+    display: flex;
+    margin-top: 22px;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  @media (max-width: 991px) {
+    .div-4 {
+      max-width: 100%;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  }
+  .div-5 {
+    color: #fff;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25),
+      0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25),
+      0px 4px 4px rgba(0, 0, 0, 0.25);
+    white-space: nowrap;
+    font: 400 24px Manjari, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-5 {
+      white-space: initial;
+    }
+  }
+  .div-6 {
+    color: #fff;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25),
+      0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25),
+      0px 4px 4px rgba(0, 0, 0, 0.25);
+    font: 400 24px Manjari, sans-serif;
+  }
+  .div-7 {
+    color: #fff;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25),
+      0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25),
+      0px 4px 4px rgba(0, 0, 0, 0.25);
+    font: 400 24px Manjari, sans-serif;
+  }
+  .div-8 {
+    color: #fff;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25),
+      0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25),
+      0px 4px 4px rgba(0, 0, 0, 0.25);
+    flex-grow: 1;
+    white-space: nowrap;
+    font: 400 24px Manjari, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-8 {
+      white-space: initial;
+    }
+  }
+  .img {
+    aspect-ratio: 1.15;
+    object-fit: contain;
+    object-position: center;
+    width: 30px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25))
+      drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25))
+      drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25))
+      drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    overflow: hidden;
+    align-self: center;
+    max-width: 100%;
+    margin: auto 0;
+  }
+  .div-9 {
+    align-self: start;
+    display: flex;
+    width: 821px;
+    max-width: 100%;
+    flex-direction: column;
+    margin: 33px 0 0 25px;
+  }
+  .div-10 {
+    align-self: start;
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  .img-2 {
+    aspect-ratio: 1.25;
+    object-fit: contain;
+    object-position: center;
+    width: 25px;
+    fill: #fcfcfc;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .div-11 {
+    justify-content: center;
+    color: #fcfcfc;
+    text-align: center;
+    align-self: stretch;
+    flex-grow: 1;
+    white-space: nowrap;
+    font: 400 32px Manjari, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-11 {
+      white-space: initial;
+    }
+  }
+  .div-12 {
+    color: #fff;
+    text-align: center;
+    text-decoration-line: underline;
+    align-self: stretch;
+    margin-top: 45px;
+    font: 400 32px Manjari, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-12 {
+      max-width: 100%;
+      margin-top: 40px;
+    }
+  }
+  .div-13 {
+    justify-content: center;
+    color: #232121;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25),
+      0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    border: 0.5px solid #fcfcfc;
+    background-color: #c5c5c5;
+    align-self: stretch;
+    margin-top: 28px;
+    padding: 13px 54px 13px 18px;
+    font: 400 32px Manjari, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-13 {
+      max-width: 100%;
+      padding-right: 20px;
+    }
+  }
+  .div-14 {
+    color: #fff;
+    text-align: center;
+    text-decoration-line: underline;
+    align-self: stretch;
+    margin-top: 29px;
+    font: 400 32px Manjari, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-14 {
+      max-width: 100%;
+    }
+  }
+  .div-15 {
+    align-self: end;
+    display: flex;
+    margin-top: 24px;
+    width: 379px;
+    max-width: 100%;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  .img-3 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 200px;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .div-16 {
+    align-self: center;
+    display: flex;
+    flex-grow: 1;
+    flex-basis: 0%;
+    flex-direction: column;
+    margin: auto 0;
+  }
+  .div-17 {
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    gap: 5px;
+  }
+  .div-18 {
+    border-radius: 50%;
+    display: flex;
+    width: 11px;
+    height: 11px;
+    flex-direction: column;
+  }
+  .div-19 {
+    justify-content: center;
+    color: #fff;
+    align-self: stretch;
+    flex-grow: 1;
+    white-space: nowrap;
+    font: 400 16px Manjari, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-19 {
+      white-space: initial;
+    }
+  }
+  .div-20 {
+    display: flex;
+    margin-top: 12px;
+    justify-content: space-between;
+    gap: 5px;
+  }
+  .div-21 {
+    display: flex;
+    flex-basis: 0%;
+    flex-direction: column;
+  }
+  .div-22 {
+    border-radius: 50%;
+    display: flex;
+    height: 11px;
+    flex-direction: column;
+  }
+  .div-23 {
+    border-radius: 50%;
+    display: flex;
+    margin-top: 16px;
+    height: 11px;
+    flex-direction: column;
+  }
+  .div-24 {
+    display: flex;
+    flex-grow: 1;
+    flex-basis: 0%;
+    flex-direction: column;
+  }
+  .div-25 {
+    justify-content: center;
+    color: #fff;
+    white-space: nowrap;
+    font: 400 16px Manjari, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-25 {
+      white-space: initial;
+    }
+  }
+  .div-26 {
+    justify-content: center;
+    color: #fff;
+    margin-top: 13px;
+    font: 400 16px Manjari, sans-serif;
+  }
+  .div-27 {
+    display: flex;
+    margin-top: 16px;
+    justify-content: space-between;
+    gap: 5px;
+  }
+  .div-28 {
+    border-radius: 50%;
+    display: flex;
+    width: 20px;
+    height: 11px;
+    flex-direction: column;
+  }
+  .div-29 {
+    justify-content: center;
+    color: #fff;
+    flex-grow: 1;
+    white-space: nowrap;
+    font: 400 16px Manjari, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-29 {
+      white-space: initial;
+    }
+  }
+  .div-30 {
+    display: flex;
+    margin-top: 16px;
+    justify-content: space-between;
+    gap: 5px;
+  }
+  .div-31 {
+    border-radius: 50%;
+    display: flex;
+    width: 24px;
+    height: 11px;
+    flex-direction: column;
+  }
+  .div-32 {
+    justify-content: center;
+    color: #fff;
+    flex-grow: 1;
+    white-space: nowrap;
+    font: 400 16px Manjari, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-32 {
+      white-space: initial;
+    }
+  }
+  .div-33 {
+    align-self: center;
+    display: flex;
+    margin-top: 19px;
+    width: 100%;
+    max-width: 1013px;
+    flex-direction: column;
+  }
+  @media (max-width: 991px) {
+    .div-33 {
+      max-width: 100%;
+    }
+  }
+  .div-34 {
+    color: #232121;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25),
+      0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    border: 0.5px solid #fcfcfc;
+    background-color: #c5c5c5;
+    justify-content: center;
+    padding: 47px 24px;
+    font: 400 32px Manjari, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-34 {
+      max-width: 100%;
+      padding: 0 20px;
+    }
+  }
+  .div-35 {
+    color: #fcfcfc;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25),
+      0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25),
+      0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    border: 1px solid #0a0a0a;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    background-color: #939393;
+    align-self: end;
+    width: 400px;
+    max-width: 100%;
+    margin: 43px 124px 0 0;
+    padding: 19px 36px 7px;
+    font: 500 24px jsMath-cmti10, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-35 {
+      margin: 40px 10px 0 0;
+      padding: 0 20px;
+    }
+  }
+  .div-36 {
+    align-self: center;
+    display: flex;
+    margin-top: 16px;
+    width: 100%;
+    max-width: 1375px;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  @media (max-width: 991px) {
+    .div-36 {
+      max-width: 100%;
+      flex-wrap: wrap;
+    }
+  }
+  .div-37 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  @media (max-width: 991px) {
+    .div-37 {
+      justify-content: center;
+    }
+  }
+  .img-4 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 30px;
+    overflow: hidden;
+    align-self: start;
+    margin-top: 5px;
+    max-width: 100%;
+  }
+  .img-5 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 30px;
+    overflow: hidden;
+    align-self: start;
+    margin-top: 5px;
+    max-width: 100%;
+  }
+  .img-6 {
+    aspect-ratio: 1.25;
+    object-fit: contain;
+    object-position: center;
+    width: 30px;
+    overflow: hidden;
+    align-self: start;
+    margin-top: 8px;
+    max-width: 100%;
+  }
+  .img-7 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 30px;
+    overflow: hidden;
+    align-self: start;
+    margin-top: 5px;
+    max-width: 100%;
+  }
+  .img-8 {
+    aspect-ratio: 1.43;
+    object-fit: contain;
+    object-position: center;
+    width: 30px;
+    overflow: hidden;
+    align-self: start;
+    margin-top: 10px;
+    max-width: 100%;
+  }
+  .img-9 {
+    aspect-ratio: 0.86;
+    object-fit: contain;
+    object-position: center;
+    width: 30px;
+    overflow: hidden;
+    align-self: stretch;
+    max-width: 100%;
+  }
+  .div-38 {
+    align-self: start;
+    display: flex;
+    margin-top: 13px;
+    align-items: start;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  .div-39 {
+    color: #939393;
+    text-align: center;
+    font: 400 24px Manjari, sans-serif;
+  }
+  .div-40 {
+    color: #939393;
+    text-align: center;
+    font: 400 24px Manjari, sans-serif;
+  }
+</style>

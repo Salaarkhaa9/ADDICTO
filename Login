@@ -1,495 +1,100 @@
-<div class="div">
-  <div class="div-2">ADDICTO</div>
-  <div class="div-3">
-    <div class="div-4">
-      <div class="div-5"></div>
-      <div class="div-6">
-        <div class="div-7"></div>
-        <div class="div-8"></div>
-      </div>
-    </div>
-    <div class="div-9">
-      <div class="div-10"></div>
-      <div class="div-11">Login</div>
-    </div>
-    <div class="div-12">
-      <div class="div-13"></div>
-      <img
-        loading="lazy"
-        src="https://cdn.builder.io/api/v1/image/assets/TEMP/78ee541dbfa687497e87e844567be7be9f4286219b854aef9576179529b754aa?apiKey=c910592a829a40f4b6c7bf35c92893b4&"
-        class="img"
-      />
-    </div>
-  </div>
-  <div class="div-14">
-    <div class="div-15">
-      <div class="column"><div class="div-16"></div></div>
-      <div class="column-2">
-        <div class="div-17">
-          <div class="div-18">
-            <div class="div-19">
-              <div class="column-3">
-                <img
-                  loading="lazy"
-                  src="https://cdn.builder.io/api/v1/image/assets/TEMP/44b0240764636c7844ca5e6d9f1cc11f2b9e250bf7c84766cbda5ed4d9b68f2a?apiKey=c910592a829a40f4b6c7bf35c92893b4&"
-                  class="img-2"
-                />
-              </div>
-              <div class="column-4">
-                <div class="div-20">
-                  <div class="div-21">
-                    <img
-                      loading="lazy"
-                      src="https://cdn.builder.io/api/v1/image/assets/TEMP/32f2f067e67e841d3f1fa89f4de389d51bc58716480a2fd0b60f3a130faab8a9?apiKey=c910592a829a40f4b6c7bf35c92893b4&"
-                      class="img-3"
-                    />
-                    <div class="div-22">Username</div>
-                  </div>
-                  <div class="div-23">
-                    <img
-                      loading="lazy"
-                      src="https://cdn.builder.io/api/v1/image/assets/TEMP/a33f61e1e78eb682891bc306a96b04d059893436b3c927cad7985a7b9ecb0ea1?apiKey=c910592a829a40f4b6c7bf35c92893b4&"
-                      class="img-4"
-                    />
-                    <div class="div-24">Password</div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="div-25">Log in</div>
-        </div>
-      </div>
-      <div class="column-5"><div class="div-26"></div></div>
-    </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Addicto - Login</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background-color: #939393;
+      color: #fff; /* Set text color to white */
+    }
+
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 20px;
+      text-align: center;
+    }
+
+    h1 {
+      color: #fff; /* Set heading color to white */
+    }
+
+    p {
+      margin-bottom: 20px; /* Add some spacing below the paragraph */
+    }
+
+    form {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    label {
+      margin-bottom: 8px; 
+    }
+
+    input {
+      padding: 8px;
+      margin-bottom: 16px; 
+      width: 100%;
+      box-sizing: border-box;
+    }
+
+    button {
+      padding: 10px;
+      background-color: #333;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+
+    button:hover {
+      background-color: #555;
+    }
+
+    .social-buttons {
+      display: flex;
+      justify-content: space-around;
+      margin-top: 20px;
+    }
+
+    .social-button {
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+
+    .social-button:hover {
+      background-color: #ddd;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1>ADDICTO</h1>
+  <p>Login to your Addicto account</p>
+
+  <form>
+    <label for="username">Username:</label>
+    <input type="text" id="username" name="username" required>
+
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password" required>
+
+    <button type="submit">Login</button>
+  </form>
   </div>
 </div>
-<style>
-  .div {
-    background-color: #939393;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-  .div-2 {
-    justify-content: center;
-    color: #fcfcfc;
-    text-align: center;
-    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25),
-      0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25),
-      0px 4px 4px rgba(0, 0, 0, 0.25);
-    white-space: nowrap;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
-    background-color: #d9d9d9;
-    align-self: stretch;
-    width: 100%;
-    align-items: center;
-    padding: 23px 60px 0;
-    font: 400 70px Manjari, sans-serif;
-  }
-  @media (max-width: 991px) {
-    .div-2 {
-      max-width: 100%;
-      font-size: 40px;
-      white-space: initial;
-      padding: 0 20px;
-    }
-  }
-  .div-3 {
-    z-index: 1;
-    display: flex;
-    margin-top: -106px;
-    width: 100%;
-    max-width: 1345px;
-    align-items: start;
-    justify-content: space-between;
-    gap: 20px;
-    padding: 0 20px;
-  }
-  @media (max-width: 991px) {
-    .div-3 {
-      max-width: 100%;
-      flex-wrap: wrap;
-      justify-content: center;
-    }
-  }
-  .div-4 {
-    display: flex;
-    flex-direction: column;
-    align-items: start;
-  }
-  .div-5 {
-    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25))
-      drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-    border-radius: 50%;
-    display: flex;
-    margin-left: 18px;
-    width: 225px;
-    height: 190px;
-    flex-direction: column;
-  }
-  @media (max-width: 991px) {
-    .div-5 {
-      margin-left: 10px;
-    }
-  }
-  .div-6 {
-    align-self: stretch;
-    display: flex;
-    margin-top: 135px;
-    align-items: start;
-    justify-content: space-between;
-    gap: 20px;
-  }
-  @media (max-width: 991px) {
-    .div-6 {
-      margin-top: 40px;
-    }
-  }
-  .div-7 {
-    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25))
-      drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-    border-radius: 50%;
-    display: flex;
-    margin-top: 17px;
-    width: 82px;
-    height: 82px;
-    flex-direction: column;
-  }
-  .div-8 {
-    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25))
-      drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-    border-radius: 50%;
-    display: flex;
-    width: 53px;
-    height: 53px;
-    flex-direction: column;
-  }
-  .div-9 {
-    align-self: center;
-    display: flex;
-    flex-direction: column;
-    margin: auto 0;
-  }
-  .div-10 {
-    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25))
-      drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-    border-radius: 50%;
-    display: flex;
-    height: 98px;
-    flex-direction: column;
-  }
-  .div-11 {
-    justify-content: center;
-    color: #fff;
-    text-align: center;
-    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25),
-      0px 4px 4px rgba(0, 0, 0, 0.25);
-    align-self: start;
-    white-space: nowrap;
-    margin: 115px 0 0 20px;
-    font: 400 48px Manjari, sans-serif;
-  }
-  @media (max-width: 991px) {
-    .div-11 {
-      font-size: 40px;
-      white-space: initial;
-      margin: 40px 0 0 10px;
-    }
-  }
-  .div-12 {
-    align-self: end;
-    display: flex;
-    margin-top: 177px;
-    flex-direction: column;
-    align-items: end;
-  }
-  @media (max-width: 991px) {
-    .div-12 {
-      margin-top: 40px;
-    }
-  }
-  .div-13 {
-    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25))
-      drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-    border-radius: 50%;
-    display: flex;
-    width: 135px;
-    height: 135px;
-    flex-direction: column;
-  }
-  .img {
-    aspect-ratio: 1;
-    object-fit: contain;
-    object-position: center;
-    width: 111px;
-    fill: #797979;
-    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25))
-      drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-    overflow: hidden;
-    align-self: start;
-    margin-top: 89px;
-    max-width: 100%;
-  }
-  @media (max-width: 991px) {
-    .img {
-      margin-top: 40px;
-    }
-  }
-  .div-14 {
-    align-self: stretch;
-    width: 100%;
-  }
-  @media (max-width: 991px) {
-    .div-14 {
-      max-width: 100%;
-      padding-right: 20px;
-    }
-  }
-  .div-15 {
-    gap: 20px;
-    display: flex;
-  }
-  @media (max-width: 991px) {
-    .div-15 {
-      flex-direction: column;
-      align-items: stretch;
-      gap: 0px;
-    }
-  }
-  .column {
-    display: flex;
-    flex-direction: column;
-    line-height: normal;
-    width: 17%;
-    margin-left: 0px;
-  }
-  @media (max-width: 991px) {
-    .column {
-      width: 100%;
-    }
-  }
-  .div-16 {
-    border-radius: 50%;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25),
-      0px 4px 4px 0px rgba(0, 0, 0, 0.25);
-    background-color: #797979;
-    display: flex;
-    width: 194px;
-    height: 305px;
-    flex-direction: column;
-    margin: 207px auto 0;
-  }
-  @media (max-width: 991px) {
-    .div-16 {
-      margin-top: 40px;
-    }
-  }
-  .column-2 {
-    display: flex;
-    flex-direction: column;
-    line-height: normal;
-    width: 61%;
-    margin-left: 20px;
-  }
-  @media (max-width: 991px) {
-    .column-2 {
-      width: 100%;
-    }
-  }
-  .div-17 {
-    display: flex;
-    flex-direction: column;
-  }
-  @media (max-width: 991px) {
-    .div-17 {
-      max-width: 100%;
-      margin-top: 40px;
-    }
-  }
-  .div-18 {
-  }
-  @media (max-width: 991px) {
-    .div-18 {
-      max-width: 100%;
-    }
-  }
-  .div-19 {
-    gap: 20px;
-    display: flex;
-  }
-  @media (max-width: 991px) {
-    .div-19 {
-      flex-direction: column;
-      align-items: stretch;
-      gap: 0px;
-    }
-  }
-  .column-3 {
-    display: flex;
-    flex-direction: column;
-    line-height: normal;
-    width: 30%;
-    margin-left: 0px;
-  }
-  @media (max-width: 991px) {
-    .column-3 {
-      width: 100%;
-    }
-  }
-  .img-2 {
-    aspect-ratio: 1;
-    object-fit: contain;
-    object-position: center;
-    width: 190px;
-    fill: #797979;
-    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25))
-      drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-    overflow: hidden;
-    max-width: 100%;
-  }
-  @media (max-width: 991px) {
-    .img-2 {
-      margin-top: 40px;
-    }
-  }
-  .column-4 {
-    display: flex;
-    flex-direction: column;
-    line-height: normal;
-    width: 70%;
-    margin-left: 20px;
-  }
-  @media (max-width: 991px) {
-    .column-4 {
-      width: 100%;
-    }
-  }
-  .div-20 {
-    display: flex;
-    flex-grow: 1;
-    flex-direction: column;
-  }
-  @media (max-width: 991px) {
-    .div-20 {
-      max-width: 100%;
-      margin-top: 40px;
-    }
-  }
-  .div-21 {
-    border-radius: 40px;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
-    background-color: #d9d9d9;
-    display: flex;
-    justify-content: space-between;
-    gap: 20px;
-    padding: 26px 80px 26px 18px;
-  }
-  @media (max-width: 991px) {
-    .div-21 {
-      max-width: 100%;
-      flex-wrap: wrap;
-      padding-right: 20px;
-    }
-  }
-  .img-3 {
-    aspect-ratio: 1;
-    object-fit: contain;
-    object-position: center;
-    width: 26px;
-    overflow: hidden;
-    max-width: 100%;
-  }
-  .div-22 {
-    justify-content: center;
-    color: #797979;
-    text-align: center;
-    margin: auto 0;
-    font: 400 32px Manjari, sans-serif;
-  }
-  .div-23 {
-    border-radius: 40px;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
-    background-color: #d9d9d9;
-    display: flex;
-    margin-top: 65px;
-    align-items: start;
-    justify-content: space-between;
-    gap: 20px;
-    padding: 28px 80px 28px 20px;
-  }
-  @media (max-width: 991px) {
-    .div-23 {
-      max-width: 100%;
-      flex-wrap: wrap;
-      padding-right: 20px;
-      margin-top: 40px;
-    }
-  }
-  .img-4 {
-    aspect-ratio: 0.86;
-    object-fit: contain;
-    object-position: center;
-    width: 19px;
-    fill: #797979;
-    overflow: hidden;
-    max-width: 100%;
-  }
-  .div-24 {
-    justify-content: center;
-    color: #797979;
-    text-align: center;
-    font: 400 32px Manjari, sans-serif;
-  }
-  .div-25 {
-    justify-content: center;
-    color: #fff;
-    text-align: center;
-    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    white-space: nowrap;
-    border-radius: 40px;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
-    background-color: #797979;
-    align-self: end;
-    margin-top: 66px;
-    width: 436px;
-    max-width: 100%;
-    align-items: center;
-    padding: 21px 60px;
-    font: 400 32px Manjari, sans-serif;
-  }
-  @media (max-width: 991px) {
-    .div-25 {
-      white-space: initial;
-      margin-top: 40px;
-      padding: 0 20px;
-    }
-  }
-  .column-5 {
-    display: flex;
-    flex-direction: column;
-    line-height: normal;
-    width: 22%;
-    margin-left: 20px;
-  }
-  @media (max-width: 991px) {
-    .column-5 {
-      width: 100%;
-    }
-  }
-  .div-26 {
-    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25))
-      drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-    border-radius: 50%;
-    display: flex;
-    width: 242px;
-    height: 242px;
-    flex-direction: column;
-    margin: auto 0;
-  }
-  @media (max-width: 991px) {
-    .div-26 {
-      margin-top: 40px;
-    }
-  }
-</style>
+
+</body>
+</html>
